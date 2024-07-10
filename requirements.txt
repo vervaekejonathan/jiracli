@@ -3,3 +3,4 @@ pbr>=0.6
 jira>=0.47
 tabulate
 termcolor
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
