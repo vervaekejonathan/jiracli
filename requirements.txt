@@ -3,3 +3,4 @@ pbr>=0.6
 jira>=0.47
 tabulate
 termcolor
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
